@@ -39,7 +39,8 @@ https://drive.google.com/file/d/18y9mMl5JG7jzAZJm6BnCYJw5oEtGThJo/view
 The project presentation slides are available at
 https://drive.google.com/file/d/19N-j7ogyM3la1G3vwzAlpVxei1zPnqIc/view
 
-The deployed application link will be added once deployment is completed.
+## 🔗 Live Demo
+🚀 **Deploy Link:** [National Grievance Portal](https://byte-quest-ai-grievance-portal.vercel.app/)
 
 Conclusion
 
